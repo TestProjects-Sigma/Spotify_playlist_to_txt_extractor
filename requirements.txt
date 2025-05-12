@@ -1,0 +1,6 @@
+# Required dependencies
+tk>=0.1.0  # Tkinter package
+requests>=2.25.0  # For Spotify API
+
+# Optional but recommended for better functionality
+mutagen>=1.45.0  # For ID3 tag reading
