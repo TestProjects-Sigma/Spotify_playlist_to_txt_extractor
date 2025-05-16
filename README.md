@@ -1,4 +1,4 @@
-# Music Playlist to TXT Extractor
+# Spotify Playlist to TXT Extractor
 
 **Version 1.0.0**
 
