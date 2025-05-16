@@ -1,4 +1,4 @@
-# Music Playlist Manager
+# Music Playlist to TXT Extractor
 
 **Version 1.0.0**
 
