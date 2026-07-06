@@ -1,5 +1,8 @@
 # Spotify Playlist to TXT Extractor
 
+** This app is replaced by the Music Indexer tool that has more advanced search possibilities with integrated spotify playlist extractor **
+https://github.com/TestProjects-Sigma/music_indexer
+
 **Version 1.0.0**
 
 A Python application to manage music files and playlists with smart matching and file organization.
